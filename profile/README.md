@@ -8,6 +8,8 @@ Local-first AI systems, agent tooling, and software and hardware R&D.
 
 - [bcp-code-planogram](https://github.com/brasicompany/bcp-code-planogram)  
   A token-efficient code map for LLM agents, plus a code planogram for humans.
+- [vertical-semaphore](https://github.com/brasicompany/vertical-semaphore)  
+  A tiny SwiftUI control for vertical macOS traffic lights and custom window chrome.
 
 ## Current focus
 
@@ -20,4 +22,4 @@ Local-first AI systems, agent tooling, and software and hardware R&D.
 
 - founder profile: [@gab11s](https://github.com/gab11s)
 - organization surface: [@brasicompany](https://github.com/brasicompany)
-- first public repository is live; the rest of the Brasico surface will expand from here
+- public repositories are live; the Brasico surface will expand from here
